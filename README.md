@@ -1,8 +1,8 @@
 # BigTwitter_Clustering-Classification
 Topic modelling and sentiment analysis on big twitter data (4-55mil. tweets)
-o	Streamed tweets into AWS S3 with Kinesis Firehose and combined it with a larger 55 mil.-tweet dataset *(Not covered in this repo)*
-o	Utilized PySpark in DataBricks to build custom PySpark transformers, label sentiment with SparkNLP/VADER, explore SparkML RandomForest and Logistic Regression classifiers, and to perform Latent Drichlet Allocation topic modelling
-o	Visualized results in AWS QuickSight through an Athena pipeline
+-	Streamed tweets into AWS S3 with Kinesis Firehose and combined it with a larger 55 mil.-tweet dataset *(Not covered in this repo)*
+-	Utilized PySpark in DataBricks to build custom PySpark transformers, label sentiment with SparkNLP/VADER, explore SparkML RandomForest and Logistic Regression classifiers, and to perform Latent Drichlet Allocation topic modelling
+-	Visualized results in AWS QuickSight through an Athena pipeline
 
 **WeCloudData Bootcamp 2022 (Part-time Cohort)**<br> </font>
 By: Kevin Jeswani & Junaid Zafar <br>
